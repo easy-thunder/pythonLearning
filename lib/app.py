@@ -190,7 +190,72 @@
 
 
 
+# def square(number):
+#     return number*number
+# result = square(3)
+# print(result)
+
+# message = input(">")
+
+# def emoji_converter(message):
+#     words = message.split(' ')
+#     emojis = {
+#         ":)": "😊",
+#         ":(": "☹️"
+#     }
+#     output = ""
+#     for word in words:
+#         word = emojis.get(word, word)
+#         output +=word+" "
+
+#     return output
+    
+
+# print(emoji_converter(message)
+# )
 
 
+
+
+
+# try:
+        
+#     age = int(input("Age:"))
+#     income = 20000
+#     risk = income/age
+#     print(age)
+# except ZeroDivisionError:
+#     print("age can't be zero")
+# except ValueError:
+#     print('Invalid value')
+
+
+# class Point: 
+#     def __init__(self, x,y):
+#         self.x=x
+#         self.y=y
+        
+#     def move(self):
+#         print("move")
+#     def draw(self):
+#         print("draw")
+
+
+
+
+# point = Point(10,20)
+# point.x=11
+# print(point.x)
+
+class Person:
+    def __init__(self, name):
+        self.name=name
+    def talk(self):
+        print(f"Hello I'm {self.name}")
+
+
+jake = Person("jake")
+
+jake.talk()
 
 
