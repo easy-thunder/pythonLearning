@@ -46,6 +46,79 @@
     
 
 
+# prices = [10, 20, 30]
+# total = 0
+# for item in prices:
+#     total+=item
+# print(f"Total:{total}")
+
+
+# for x in range(4):
+#     for y in range(3):
+#         print(f'({x}, {y})')
+
+
+# xxxxx
+# xx
+# xxxxx
+# xx
+# xx
+
+# numbers = [5,2,5,2,2]
+# for x in numbers:
+#     print("x")
+#     for x in numbers:
+#         print("x")
+
+# names = ["John", "Bob", "Mosh", "Sarah", "Mary"]
+# names[0]="Jon"
+# print(names[0:3])
+
+
+# numbers = [23,24,64,32,234,64,4343,5]
+# max = numbers[0]
+# for number in numbers:
+#     if number> max:
+#         max = number
+# print(max)
+
+
+# matrix = [
+#     [1,2,3],
+#     [4,5,6],
+#     [8,8,9]
+
+# ]
+# matrix[0][1]=20
+# print(matrix[0][1])
+
+# for array in matrix:
+
+#     for number in array:
+#         print(number)
+
+
+
+
+
+
+
+
+
+# numbers = [5,2,1,7,4,5]
+# modNumbers= []
+# for number in numbers:
+#     modNumbers.append(number)
+#     if modNumbers.count(number)==2:
+#         numbers.remove(number)
+        
+# print(numbers)
+
+
+numbers = (1,2,3)
+print(numbers[0])
+
+
 
 
 
