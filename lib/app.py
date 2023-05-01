@@ -114,20 +114,57 @@
         
 # print(numbers)
 
+# customer = {
+#     "name": "John Smith", 
+#     "age": 30,
+#     "is_verified": True
+# }
 
-numbers = (1,2,3)
-print(numbers[0])
-
-
-
-
-
-
-
-
-
+# print(customer['name']
+# )
+# customer["name"]="Jack Smith"
+# print (customer["name"])
 
 
+
+# phone = {
+#     "1": "one",
+#     "2": "two",
+#     "3": "three",
+#     "4": "four",
+#     "5": "five",
+#     "6": "six",
+#     "7": "seven",
+#     "8": "eight",
+#     "9": "nine",
+#     "0": "zero"
+# }
+
+# number = input("Phone: ")
+# length = len(number)
+# i = 0
+# while i < length:
+#     print(phone[str(number[i])],end=" ")
+#     i+=1
+
+
+# phone = input("Phone: ")
+# digits_mapping = {
+#     "1": "one",
+#     "2": "two",
+#     "3": "three",
+#     "4": "four",
+#     "5": "five",
+#     "6": "six",
+#     "7": "seven",
+#     "8": "eight",
+#     "9": "nine",
+#     "0": "zero"
+# }
+# output = ""
+# for ch in phone:
+#     output +=digits_mapping.get(ch, "!")+ " "
+# print(output)
 
 
 
