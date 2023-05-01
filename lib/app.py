@@ -247,15 +247,64 @@
 # point.x=11
 # print(point.x)
 
-class Person:
-    def __init__(self, name):
-        self.name=name
-    def talk(self):
-        print(f"Hello I'm {self.name}")
+# class Person:
+#     def __init__(self, name):
+#         self.name=name
+#     def talk(self):
+#         print(f"Hello I'm {self.name}")
 
 
-jake = Person("jake")
+# jake = Person("jake")
 
-jake.talk()
+# jake.talk()
+
+# class Mammal:
+#     def walk(self):
+#         print("walk")
+
+
+# class Dog(Mammal):
+#     def bark(self):
+#         print("bark")
+
+
+# class Cat(Mammal):
+#     def meow(self):
+#         print("meow")
+
+
+# dog1 = Dog()
+# dog1.bark()
+# from utils import find_max
+# from converters import kg_to_lbs
+# print(kg_to_lbs(70))
+# array = [4,2,53,34,324,34]
+# print(find_max(array))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
