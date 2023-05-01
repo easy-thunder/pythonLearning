@@ -166,5 +166,31 @@
 #     output +=digits_mapping.get(ch, "!")+ " "
 # print(output)
 
+# message = input(">")
+# words = message.split(' ')
+# emojis = {
+#     ":)": "😊",
+#     ":(": "☹️"
+# }
+# output = ""
+# for word in words:
+#     word = emojis.get(word, word)
+#     output +=word+" "
+# print (output)
+
+
+# def greet_user(first_name, last_name):
+#     print(f"Hi there {first_name} {last_name}!")
+#     print("welcome aboard")
+
+
+# print("start")
+# greet_user("john", "smith")
+# print("finish")
+
+
+
+
+
 
 
